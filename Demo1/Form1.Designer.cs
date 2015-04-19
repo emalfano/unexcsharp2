@@ -55,9 +55,9 @@
             this.lblOutput.AutoSize = true;
             this.lblOutput.Location = new System.Drawing.Point(176, 536);
             this.lblOutput.Name = "lblOutput";
-            this.lblOutput.Size = new System.Drawing.Size(150, 25);
+            this.lblOutput.Size = new System.Drawing.Size(168, 25);
             this.lblOutput.TabIndex = 2;
-            this.lblOutput.Text = "Demo1 results";
+            this.lblOutput.Text = "Demo1 results 2";
             // 
             // frmDemo
             // 
